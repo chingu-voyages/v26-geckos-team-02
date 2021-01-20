@@ -5,11 +5,13 @@ import SearchLocation from "./SearchLocation/SearchLocation";
 
 export default class Navbar extends Component {
   render() {
+    const { coordinates } = this.props;
+
     return (
       <>
         [Navbar]
         <Logo />
-        <LocateMeButton />
+        <LocateMeButton coordinates={coordinates} />
         <SearchLocation />
       </>
     );

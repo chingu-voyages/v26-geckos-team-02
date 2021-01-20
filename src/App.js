@@ -53,7 +53,7 @@ export default class App extends Component {
 
     return (
       <>
-        <Navbar />
+        <Navbar coordinates={coordinates} />
         <MainContent
           showGeolocationInfoBanner={
             isGeolocationSupported && !isGeolocationBlocked && !coordinates
