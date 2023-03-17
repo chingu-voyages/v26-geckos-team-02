@@ -5,7 +5,7 @@
 
 <p align="center">
   <span style="font-weight: bold">Knowledge = safety, Safety = power. Be in a State of Safety.</span>
-  <a href="[https://stateofsafety.netlify.app/](https://sosstateofsafety.netlify.app/)" target="_blank">SOS</a> gives you access to the crime data in your state.
+  <a href="https://sosstateofsafety.netlify.app/" target="_blank">SOS</a> gives you access to the crime data in your state.
 </p>
 
 <p align="center">
