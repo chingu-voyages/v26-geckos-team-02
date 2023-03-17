@@ -81,4 +81,4 @@ Feel free to open a PR or fork this project and modify it as you wish!
 # Authors
 Product Owner: [David](), Developers: [Dario](https://github.com/theborgh), [Jennifer](https://github.com/spicysos), [Nhi](https://github.com/nhi-ngo)
 
-State of Safety App | Voyage-26 | https://chingu.io/ | Twitter: https://twitter.com/ChinguCollabs | Netlify: https://stateofsafety.netlify.app/
+State of Safety App | Voyage-26 | https://chingu.io/ | Twitter: https://twitter.com/ChinguCollabs | Netlify: https://sosstateofsafety.netlify.app/
